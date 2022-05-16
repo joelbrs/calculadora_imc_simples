@@ -53,7 +53,7 @@ input {
 
 #button {
 
-    background-color:cyan;
+    background-color: hsl(198, 60%, 50%);
     color: #fff;
 
     font-weight: bold;
